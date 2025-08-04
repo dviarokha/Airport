@@ -1,0 +1,304 @@
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - This staff has been pilot
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Length name: 7
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - ALLEN STEIN
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Maximo
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - 2
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working in the airport, in Terminal and Gate areas.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working in the airport, in Terminal and Gate areas.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working on the plane
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working on the plane
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working on the plane
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - There was an error reading ticket:ticket.txt (No such file or directory)
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.StatusGate - Boarding is in process for flight.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - List tickets: [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Quatity tickets: 4
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Check In: false
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Ticket with19A not found
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Passenger 30032 Ferdi Annelies 
+ticket=[Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false] baggage []
+2025-07-29 23:37:21 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CONFIRMED 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Reservation 39203JIW is INVALID and not ready for check in.
+2025-07-29 23:37:21 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CANCELLED 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Reservation 123932IIIQA12 is INVALID and not ready for check in.
+2025-07-29 23:37:21 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: EXPIRED 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Reservation MKW21021 is INVALID and not ready for check in.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing Credit Card Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing PayPal Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Optional[1300]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Booking System Wroclaw Airport
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - [Payment paymentID = ERSFTYGWH39203920391', method:VISA', amount 1300', isPaid=true, Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true, Payment paymentID = NJJSW90293', method:PAYPAL', amount 2450.6999999999998181010596454143524169921875', isPaid=true, Payment paymentID = IWOISOW38293', method:APPLE_PAY', amount 2005.990000000000009094947017729282379150390625', isPaid=false]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - [Reservation39203JIW', status CONFIRMED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], Reservation123932IIIQA12', status CANCELLED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], ReservationMKW21021', status EXPIRED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Class Name: com.solvdinc.airport.model.Helicopter
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Methods: 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - setType
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - getType
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - land
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - fly
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - takeoff
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - getMaxSpeed
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - setMaxSpeed
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - isAutopilotEnabled
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - setAutopilotEnabled
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T VIP is flying at low altitude for rescue operations.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T lands gently on the helipad.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.model.Helicopter - For helicopter airport staff are performing  engine check before flight.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - 
+Constructors and parameters: 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg0: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg1: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg2: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg3: double
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg4: boolean
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Fields: 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - type: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - maxSpeed: double
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - autopilotEnabled: boolean
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - logger: interface org.apache.logging.log4j.Logger
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.StatusGate - Boarding is in process for flight.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - List tickets: [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Quatity tickets: 4
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Check In: false
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Ticket with19A not found
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Passenger 30032 Ferdi Annelies 
+ticket=[Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false] baggage []
+2025-07-29 23:37:21 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CONFIRMED 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Reservation 39203JIW is INVALID and not ready for check in.
+2025-07-29 23:37:21 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CANCELLED 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Reservation 123932IIIQA12 is INVALID and not ready for check in.
+2025-07-29 23:37:21 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: EXPIRED 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Reservation MKW21021 is INVALID and not ready for check in.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing Credit Card Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing PayPal Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Optional[1300]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Booking System Wroclaw Airport
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - [Payment paymentID = ERSFTYGWH39203920391', method:VISA', amount 1300', isPaid=true, Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true, Payment paymentID = NJJSW90293', method:PAYPAL', amount 2450.6999999999998181010596454143524169921875', isPaid=true, Payment paymentID = IWOISOW38293', method:APPLE_PAY', amount 2005.990000000000009094947017729282379150390625', isPaid=false]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - [Reservation39203JIW', status CONFIRMED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], Reservation123932IIIQA12', status CANCELLED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], ReservationMKW21021', status EXPIRED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]]
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Class Name: com.solvdinc.airport.model.Helicopter
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Methods: 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - setType
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - getType
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - land
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - fly
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - takeoff
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - getMaxSpeed
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - setMaxSpeed
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - isAutopilotEnabled
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - setAutopilotEnabled
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T VIP is flying at low altitude for rescue operations.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T lands gently on the helipad.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.model.Helicopter - For helicopter airport staff are performing  engine check before flight.
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - 
+Constructors and parameters: 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg0: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg1: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg2: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg3: double
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - arg4: boolean
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - Fields: 
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - type: class java.lang.String
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - maxSpeed: double
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - autopilotEnabled: boolean
+2025-07-29 23:37:21 [main] INFO  com.solvdinc.airport.Main.Main - logger: interface org.apache.logging.log4j.Logger
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - This staff has been pilot
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Length name: 7
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - ALLEN STEIN
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Maximo
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - 2
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working in the airport, in Terminal and Gate areas.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working in the airport, in Terminal and Gate areas.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working on the plane
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working on the plane
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.Role - Staff is working on the plane
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - There was an error reading ticket:ticket.txt (No such file or directory)
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.StatusGate - Boarding is in process for flight.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - List tickets: [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Quatity tickets: 4
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Check In: false
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.model.TicketSearchService - Searching of ticket is failed. Ticket seatNumber 19A not found
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Ticket with19A not found
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Passenger 30032 Ferdi Annelies 
+ticket=[Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false] baggage []
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CONFIRMED 
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Reservation 39203JIW is INVALID and not ready for check in.
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CANCELLED 
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Reservation 123932IIIQA12 is INVALID and not ready for check in.
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: EXPIRED 
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Reservation MKW21021 is INVALID and not ready for check in.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing Credit Card Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing PayPal Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Optional[1300]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Booking System Wroclaw Airport
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - [Payment paymentID = ERSFTYGWH39203920391', method:VISA', amount 1300', isPaid=true, Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true, Payment paymentID = NJJSW90293', method:PAYPAL', amount 2450.6999999999998181010596454143524169921875', isPaid=true, Payment paymentID = IWOISOW38293', method:APPLE_PAY', amount 2005.990000000000009094947017729282379150390625', isPaid=false]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - [Reservation39203JIW', status CONFIRMED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], Reservation123932IIIQA12', status CANCELLED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], ReservationMKW21021', status EXPIRED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Class Name: com.solvdinc.airport.model.Helicopter
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Methods: 
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - setType
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - getType
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - land
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - setAutopilotEnabled
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - getMaxSpeed
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - setMaxSpeed
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - isAutopilotEnabled
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - fly
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - takeoff
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T VIP is flying at low altitude for rescue operations.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T lands gently on the helipad.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.model.Helicopter - For helicopter airport staff are performing  engine check before flight.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - 
+Constructors and parameters: 
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg0: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg1: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg2: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg3: double
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg4: boolean
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Fields: 
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - type: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - maxSpeed: double
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - autopilotEnabled: boolean
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - logger: interface org.apache.logging.log4j.Logger
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.StatusGate - Boarding is in process for flight.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - List tickets: [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Quatity tickets: 4
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Total price: 2901.2
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Check In: false
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.model.TicketSearchService - Searching of ticket is failed. Ticket seatNumber 19A not found
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Ticket with19A not found
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Passenger 30032 Ferdi Annelies 
+ticket=[Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false] baggage []
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CONFIRMED 
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Reservation 39203JIW is INVALID and not ready for check in.
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: CANCELLED 
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Reservation 123932IIIQA12 is INVALID and not ready for check in.
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.constant.ReservationStatus - Invalid reservation status: EXPIRED 
+2025-07-30 00:31:59 [main] ERROR com.solvdinc.airport.Main.Main - Reservation MKW21021 is INVALID and not ready for check in.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing Credit Card Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing PayPal Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.constant.PaymentMethod - Processing ApplePay Payment.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Optional[1300]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Booking System Wroclaw Airport
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - [Payment paymentID = ERSFTYGWH39203920391', method:VISA', amount 1300', isPaid=true, Payment paymentID = IWJXW929032', method:APPLE_PAY', amount 1950.5', isPaid=true, Payment paymentID = NJJSW90293', method:PAYPAL', amount 2450.6999999999998181010596454143524169921875', isPaid=true, Payment paymentID = IWOISOW38293', method:APPLE_PAY', amount 2005.990000000000009094947017729282379150390625', isPaid=false]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - [Reservation39203JIW', status CONFIRMED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], Reservation123932IIIQA12', status CANCELLED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false], ReservationMKW21021', status EXPIRED, ticket [Ticket{392UI', seatNumber 11A', price 1.2VAT 0.08Total Price: 1.296
+ isCheckIn=true, Ticket{123QA12', seatNumber 12A', price 1000.0VAT 0.08Total Price: 1080.0
+ isCheckIn=true, Ticket{QW29102', seatNumber 20A', price 700.0VAT 0.08Total Price: 756.0
+ isCheckIn=true, Ticket{IW30232', seatNumber A9', price 1200.0VAT 0.08Total Price: 1296.0
+ isCheckIn=false]]
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Class Name: com.solvdinc.airport.model.Helicopter
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Methods: 
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - setType
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - getType
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - land
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - setAutopilotEnabled
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - getMaxSpeed
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - setMaxSpeed
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - isAutopilotEnabled
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - fly
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - takeoff
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T VIP is flying at low altitude for rescue operations.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.model.Helicopter - Helicopter HEL32-T lands gently on the helipad.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.model.Helicopter - For helicopter airport staff are performing  engine check before flight.
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - 
+Constructors and parameters: 
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg0: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg1: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg2: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg3: double
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - arg4: boolean
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - Fields: 
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - type: class java.lang.String
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - maxSpeed: double
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - autopilotEnabled: boolean
+2025-07-30 00:31:59 [main] INFO  com.solvdinc.airport.Main.Main - logger: interface org.apache.logging.log4j.Logger
