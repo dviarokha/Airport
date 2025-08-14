@@ -1,9 +1,9 @@
 package ConnectionPool;
 
-public class UnnamedTask implements Runnable {
+public class Task1 implements Runnable {
     private String name;
 
-    public UnnamedTask(String name) {
+    public Task1(String name) {
         this.name = name;
     }
 
@@ -21,5 +21,4 @@ public class UnnamedTask implements Runnable {
     public String toString() {
         return name;
     }
-
 }
